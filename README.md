@@ -35,8 +35,11 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sneha-Nepal&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-Nepal&layout=donut&theme=dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sneha-Nepal&theme=react&bg_color=0D1117&color=58A6FF&line=58A6FF&point=38BDF8&area=true&hide_border=true" alt="Daily Progress Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneha-Nepal&theme=dark&background=0D1117&border=0D1117&fire=DD6B20&ring=DD6B20&currStreakNum=FFFFFF" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
