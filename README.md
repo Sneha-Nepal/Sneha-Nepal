@@ -36,7 +36,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneha-Nepal&theme=dark&background=0D1117&border=0D1117&fire=DD6B20&ring=DD6B20&currStreakNum=FFFFFF" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Sneha-Nepal&theme=dark&background=0D1117&border=0D1117&fire=DD6B20&ring=DD6B20&currStreakNum=FFFFFF" alt="GitHub Streak Stats" />
 </p>
 
 ---
