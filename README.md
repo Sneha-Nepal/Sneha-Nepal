@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=pandas&logoColor=150458" height="25" />
   <img src="https://img.shields.io/badge/OOP-blueviolet?style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/APIs-green?style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white" height="25" />
 </p>
 
 ---
