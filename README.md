@@ -42,7 +42,7 @@
 ---
 
 ### 🎯 What I'm Working On
-- 🐍 100 Days of Python Pro Bootcamp from Udemy
+- 🐍 Python Pro Bootcamp from Udemy
 - 🌐 Learning Pandas with Leetcode & Coddy
 - 🔌 Exploring APIs in Python
 - 💻 Comfortable with Python, HTML, CSS, and (a bit rusty but solid) JavaScript
